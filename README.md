@@ -12,14 +12,14 @@ Estimated time for one completion is about 2 hours.
 After completion, sending me the generated CSV file is appreciated.
 The email address can be found below as well.
 
-Note: Experimentation is finished and no more Datasets are required. You can however, still experiment on your own terms.
+Note: Experimentation is completed as of December 2019 and no further Datasets are required. Howevre, you can still experiment on your own terms.
 
 Email: Seyfullah.Davulcu@Stud.uni-due.de
 
 ## Syntaxvariants
 
-- standard SQL 
-- modified SQL (SQLAssign)
+- Standard SQL 
+- Modified SQL (SQLAssign)
 
 ## Features
 
